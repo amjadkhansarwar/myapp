@@ -1,5 +1,8 @@
 {
   "expo": {
+    "splash":{
+      "image": "./images/header.png"
+    },
     "name": "myapp",
     "slug": "myapp",
     "version": "1.0.0",
